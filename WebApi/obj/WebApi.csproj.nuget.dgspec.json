@@ -1,0 +1,399 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Furkan .LAPTOP-PL6HR16E\\source\\repos\\DungeonCityBackend\\WebApi\\WebApi.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Furkan .LAPTOP-PL6HR16E\\source\\repos\\DungeonCityBackend\\Business\\Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Furkan .LAPTOP-PL6HR16E\\source\\repos\\DungeonCityBackend\\Business\\Business.csproj",
+        "projectName": "Business",
+        "projectPath": "C:\\Users\\Furkan .LAPTOP-PL6HR16E\\source\\repos\\DungeonCityBackend\\Business\\Business.csproj",
+        "packagesPath": "C:\\Users\\Furkan .LAPTOP-PL6HR16E\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Furkan .LAPTOP-PL6HR16E\\source\\repos\\DungeonCityBackend\\Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Furkan .LAPTOP-PL6HR16E\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Furkan .LAPTOP-PL6HR16E\\source\\repos\\DungeonCityBackend\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "C:\\Users\\Furkan .LAPTOP-PL6HR16E\\source\\repos\\DungeonCityBackend\\DataAccess\\DataAccess.csproj"
+              },
+              "C:\\Users\\Furkan .LAPTOP-PL6HR16E\\source\\repos\\DungeonCityBackend\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\Furkan .LAPTOP-PL6HR16E\\source\\repos\\DungeonCityBackend\\Entities\\Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Autofac": {
+              "target": "Package",
+              "version": "[6.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Furkan .LAPTOP-PL6HR16E\\source\\repos\\DungeonCityBackend\\Core\\Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Furkan .LAPTOP-PL6HR16E\\source\\repos\\DungeonCityBackend\\Core\\Core.csproj",
+        "projectName": "Core",
+        "projectPath": "C:\\Users\\Furkan .LAPTOP-PL6HR16E\\source\\repos\\DungeonCityBackend\\Core\\Core.csproj",
+        "packagesPath": "C:\\Users\\Furkan .LAPTOP-PL6HR16E\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Furkan .LAPTOP-PL6HR16E\\source\\repos\\DungeonCityBackend\\Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Furkan .LAPTOP-PL6HR16E\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.12, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Binder": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[6.14.1, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.14.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Furkan .LAPTOP-PL6HR16E\\source\\repos\\DungeonCityBackend\\DataAccess\\DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Furkan .LAPTOP-PL6HR16E\\source\\repos\\DungeonCityBackend\\DataAccess\\DataAccess.csproj",
+        "projectName": "DataAccess",
+        "projectPath": "C:\\Users\\Furkan .LAPTOP-PL6HR16E\\source\\repos\\DungeonCityBackend\\DataAccess\\DataAccess.csproj",
+        "packagesPath": "C:\\Users\\Furkan .LAPTOP-PL6HR16E\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Furkan .LAPTOP-PL6HR16E\\source\\repos\\DungeonCityBackend\\DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Furkan .LAPTOP-PL6HR16E\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Furkan .LAPTOP-PL6HR16E\\source\\repos\\DungeonCityBackend\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\Furkan .LAPTOP-PL6HR16E\\source\\repos\\DungeonCityBackend\\Core\\Core.csproj"
+              },
+              "C:\\Users\\Furkan .LAPTOP-PL6HR16E\\source\\repos\\DungeonCityBackend\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\Furkan .LAPTOP-PL6HR16E\\source\\repos\\DungeonCityBackend\\Entities\\Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[5.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Furkan .LAPTOP-PL6HR16E\\source\\repos\\DungeonCityBackend\\Entities\\Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Furkan .LAPTOP-PL6HR16E\\source\\repos\\DungeonCityBackend\\Entities\\Entities.csproj",
+        "projectName": "Entities",
+        "projectPath": "C:\\Users\\Furkan .LAPTOP-PL6HR16E\\source\\repos\\DungeonCityBackend\\Entities\\Entities.csproj",
+        "packagesPath": "C:\\Users\\Furkan .LAPTOP-PL6HR16E\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Furkan .LAPTOP-PL6HR16E\\source\\repos\\DungeonCityBackend\\Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Furkan .LAPTOP-PL6HR16E\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Furkan .LAPTOP-PL6HR16E\\source\\repos\\DungeonCityBackend\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\Furkan .LAPTOP-PL6HR16E\\source\\repos\\DungeonCityBackend\\Core\\Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Furkan .LAPTOP-PL6HR16E\\source\\repos\\DungeonCityBackend\\WebApi\\WebApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Furkan .LAPTOP-PL6HR16E\\source\\repos\\DungeonCityBackend\\WebApi\\WebApi.csproj",
+        "projectName": "WebApi",
+        "projectPath": "C:\\Users\\Furkan .LAPTOP-PL6HR16E\\source\\repos\\DungeonCityBackend\\WebApi\\WebApi.csproj",
+        "packagesPath": "C:\\Users\\Furkan .LAPTOP-PL6HR16E\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Furkan .LAPTOP-PL6HR16E\\source\\repos\\DungeonCityBackend\\WebApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Furkan .LAPTOP-PL6HR16E\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Furkan .LAPTOP-PL6HR16E\\source\\repos\\DungeonCityBackend\\Business\\Business.csproj": {
+                "projectPath": "C:\\Users\\Furkan .LAPTOP-PL6HR16E\\source\\repos\\DungeonCityBackend\\Business\\Business.csproj"
+              },
+              "C:\\Users\\Furkan .LAPTOP-PL6HR16E\\source\\repos\\DungeonCityBackend\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\Furkan .LAPTOP-PL6HR16E\\source\\repos\\DungeonCityBackend\\Entities\\Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Autofac.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.2.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[5.0.12, )"
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.11.1, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            },
+            "Swashbuckle.AspNetCore.Swagger": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            },
+            "Swashbuckle.AspNetCore.SwaggerGen": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            },
+            "Swashbuckle.AspNetCore.SwaggerUI": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

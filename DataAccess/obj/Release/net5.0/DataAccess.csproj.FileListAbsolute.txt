@@ -1,0 +1,17 @@
+C:\Users\Furkan .LAPTOP-PL6HR16E\source\repos\DungeonCityBackend\DataAccess\bin\Release\net5.0\DataAccess.deps.json
+C:\Users\Furkan .LAPTOP-PL6HR16E\source\repos\DungeonCityBackend\DataAccess\bin\Release\net5.0\DataAccess.dll
+C:\Users\Furkan .LAPTOP-PL6HR16E\source\repos\DungeonCityBackend\DataAccess\bin\Release\net5.0\ref\DataAccess.dll
+C:\Users\Furkan .LAPTOP-PL6HR16E\source\repos\DungeonCityBackend\DataAccess\bin\Release\net5.0\DataAccess.pdb
+C:\Users\Furkan .LAPTOP-PL6HR16E\source\repos\DungeonCityBackend\DataAccess\bin\Release\net5.0\Core.dll
+C:\Users\Furkan .LAPTOP-PL6HR16E\source\repos\DungeonCityBackend\DataAccess\bin\Release\net5.0\Entities.dll
+C:\Users\Furkan .LAPTOP-PL6HR16E\source\repos\DungeonCityBackend\DataAccess\bin\Release\net5.0\Core.pdb
+C:\Users\Furkan .LAPTOP-PL6HR16E\source\repos\DungeonCityBackend\DataAccess\bin\Release\net5.0\Entities.pdb
+C:\Users\Furkan .LAPTOP-PL6HR16E\source\repos\DungeonCityBackend\DataAccess\obj\Release\net5.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\Furkan .LAPTOP-PL6HR16E\source\repos\DungeonCityBackend\DataAccess\obj\Release\net5.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Furkan .LAPTOP-PL6HR16E\source\repos\DungeonCityBackend\DataAccess\obj\Release\net5.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\Furkan .LAPTOP-PL6HR16E\source\repos\DungeonCityBackend\DataAccess\obj\Release\net5.0\DataAccess.AssemblyInfo.cs
+C:\Users\Furkan .LAPTOP-PL6HR16E\source\repos\DungeonCityBackend\DataAccess\obj\Release\net5.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Furkan .LAPTOP-PL6HR16E\source\repos\DungeonCityBackend\DataAccess\obj\Release\net5.0\DataAccess.csproj.CopyComplete
+C:\Users\Furkan .LAPTOP-PL6HR16E\source\repos\DungeonCityBackend\DataAccess\obj\Release\net5.0\DataAccess.dll
+C:\Users\Furkan .LAPTOP-PL6HR16E\source\repos\DungeonCityBackend\DataAccess\obj\Release\net5.0\ref\DataAccess.dll
+C:\Users\Furkan .LAPTOP-PL6HR16E\source\repos\DungeonCityBackend\DataAccess\obj\Release\net5.0\DataAccess.pdb

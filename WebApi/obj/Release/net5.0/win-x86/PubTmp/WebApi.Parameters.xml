@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="dungeoncity-backend" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\Furkan\ \.LAPTOP-PL6HR16E\\source\\repos\\DungeonCityBackend\\WebApi\\obj\\Release\\net5\.0\\win-x86\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>
